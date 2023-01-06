@@ -1,0 +1,19 @@
+.card-img-top {
+    z-index: 200;
+    margin-left: 0px;
+}
+.card-body{
+    margin-top: 200px;
+}
+.card-text{
+    margin-left: 5px;
+}
+.col{
+    width: 460px;
+    margin-left: 58px;
+}
+.projek{
+    margin-right: 70%;
+    margin-top: 5px;
+    font-size: 15px;
+}

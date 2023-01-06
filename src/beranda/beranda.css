@@ -1,0 +1,25 @@
+img {
+    width: 250px;
+    margin-left: 1000px;
+    box-sizing: border-box;
+    border: 1px #000 solid;
+    margin-bottom: 30px;
+    display: flex;
+    position: absolute;
+    border-radius: 5px;
+}
+.turun{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.pembates{
+    border: #000 solid 1px;
+    width: 90%;
+    background-color: #000;
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+}
+dl{
+    margin-left: 20px;
+}
